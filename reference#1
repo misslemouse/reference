@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+reference
+</title>
+</head>
+<body>
+table{
+background-color:purple;
+}
+<table border="1">
+<tr>
+<td>let's see what i remember</td>
+</tr>
+</body>
+</html>
